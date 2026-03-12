@@ -1,5 +1,5 @@
 # 💫 About Me:
-Rofif Nabil Mudhofar (23) is a fresh graduate (B.Sc. in Information Systems, GPA 3.87) with hands-on experience in front-end development, web application design, and blockchain-based projects. Skilled in modern web technologies such as React, Laravel, and WordPress Elementor, and familiar with smart contract integration using Solidity and ethers.js. Proven ability to build reliable and user-centered digital solutions through academic projects
+Im Developer with hands-on experience in front-end development, web application design, and blockchain-based projects. Skilled in modern web technologies such as React, Laravel, and WordPress Elementor, and familiar with smart contract integration using Solidity and ethers.js. Proven ability to build reliable and user-centered digital solutions through academic projects
 
 
 ## 🌐 Socials:
